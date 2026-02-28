@@ -109,7 +109,3 @@ terraform apply -var-file=terraform.tfvars
 **Madhav Mohan**
 *Project: terraform-aws-ai-platform*
 
----
-<p align="center">
-  Built with ❤️ for the AI Community
-</p>
